@@ -2,10 +2,11 @@
 Aplikasi Kasir Penjualan Menggunakan Codeigniter Bootstrap Adminlte
 
 Aplikasi ini dibuat dengan:
-* **Codeigniter**
+* **Codeigniter 3**
 * **AdminLTE3**
 * **Bootstrap4**
-* **Mysql**
+* **Mysql Maria DB**
+* **Php 7**
 * dsb
 
 ## Fitur
@@ -20,6 +21,13 @@ Aplikasi ini dibuat dengan:
 * Laporan (Laporan Penjualan, Stok Masuk, dan Stok Keluar)
 * Pengaturan (Khusus Admin)
 * Pengguna (Khusus Admin)
+
+## Instalasi
+
+* Clone repositori ini
+* Buat database dengan nama **kasir**
+* Import file kasir.sql
+* Taruh project ini di htdocs
 
 ## Screenshot
 
