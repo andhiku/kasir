@@ -21,4 +21,10 @@ Aplikasi ini dibuat dengan:
 * Pengaturan (Khusus Admin)
 * Pengguna (Khusus Admin)
 
+## Screenshot
+
+![Dashboard](https://i.ibb.co/3vV25Gv/dashboard.png)
+![Transaksi](https://i.ibb.co/25jpLqL/transaksi.png)
+![Stok](https://i.ibb.co/f4XF8MN/stok.png)
+
 Silahkan gunakan aplikasi ini dengan bijak
